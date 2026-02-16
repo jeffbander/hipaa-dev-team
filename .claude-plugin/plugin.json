@@ -1,0 +1,20 @@
+{
+  "name": "hipaa-dev-team",
+  "version": "1.0.0",
+  "description": "Full-stack multi-agent development and security team for MSW AI Lab. HIPAA-compliant healthcare software development with Node.js, React, Clerk, Neon DB, and Vercel. Includes 10 specialized agents: Product Manager, UX Designer, Mount Sinai Branding, Frontend Dev, Backend Dev, Security/HIPAA, DevOps, QA, Documentation, and Team Lead orchestrator.",
+  "author": {
+    "name": "MSW AI Lab",
+    "homepage": "https://mswlab.ai"
+  },
+  "keywords": [
+    "hipaa",
+    "security",
+    "healthcare",
+    "mount-sinai",
+    "multi-agent",
+    "development-team",
+    "clerk",
+    "neon-db",
+    "vercel"
+  ]
+}
